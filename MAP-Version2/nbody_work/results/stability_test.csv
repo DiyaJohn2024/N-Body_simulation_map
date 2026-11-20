@@ -1,0 +1,4 @@
+cluster,problem,platform,implementation,dataset,size,threads_or_ranks,run_id,total_ms,kernel_ms,transfer_ms,throughput,error,power_w
+E,17,cpu_openmp,omp_full_fp64,gravity_steps20,4096,4,1,205.514328,205.514328,0.000000,1.632705e+09,0.000e+00,
+E,17,cpu_openmp,omp_full_fp64,gravity_steps20,4096,4,2,208.290998,208.290998,0.000000,1.610940e+09,0.000e+00,
+E,17,cpu_openmp,omp_full_fp64,gravity_steps20,4096,4,3,260.869218,260.869218,0.000000,1.286255e+09,0.000e+00,

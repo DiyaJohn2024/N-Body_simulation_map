@@ -1,0 +1,6 @@
+platform,recommended_precision,Ginteractions_per_s,max_abs_energy_drift,final_rms_pos_error,meets_tolerances
+cuda,mixed,6.761789,1.255912e-06,1.6731190231063117e-07,True
+cuda_rsqrt,mixed,6.907574,1.28312e-06,2.372578422324458e-07,True
+mpi,mixed,1.8282,1.255912e-06,1.6731190231115842e-07,True
+openmp,mixed,1.26762,1.255912e-06,1.6731190160462304e-07,True
+seq,fp64,0.5467518,1.253951e-06,0.0,True
