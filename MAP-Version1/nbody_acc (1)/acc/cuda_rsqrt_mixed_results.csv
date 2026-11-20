@@ -1,0 +1,2 @@
+cluster,problem,platform,implementation,dataset,size,threads_or_ranks,run_id,total_ms,kernel_ms,transfer_ms,throughput,error,power_w
+E,19,gpu_cuda,cuda_tiled_bs128_rsqrt_u4_mixed,accuracy_steps10000,1024,128,1,6104.223315,6104.223315,0.000000,1.717788e+09,4.107e-07,

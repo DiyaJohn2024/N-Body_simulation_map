@@ -1,0 +1,6 @@
+platform,recommended_precision,Ginteractions_per_s,max_abs_energy_drift,meets_tolerance
+cuda,fp32,8.49052,1.181381e-06,True
+cuda_rsqrt,fp32,27.57508,1.210866e-06,True
+mpi,fp32,1.406538,1.152345e-06,True
+openmp,fp32,1.536274,1.143545e-06,True
+seq,fp32,1.291426,1.143545e-06,True

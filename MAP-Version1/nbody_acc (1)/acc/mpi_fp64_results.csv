@@ -1,0 +1,2 @@
+cluster,problem,platform,implementation,dataset,size,threads_or_ranks,run_id,total_ms,kernel_ms,transfer_ms,throughput,error,power_w
+E,18,cpu_mpi,ring_fp64,accuracy_steps10000,1024,2,1,21740.721960,21740.721960,0.000000,4.823097e+08,1.048e-15,

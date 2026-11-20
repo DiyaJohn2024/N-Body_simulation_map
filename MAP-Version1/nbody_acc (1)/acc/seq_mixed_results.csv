@@ -1,0 +1,2 @@
+cluster,problem,platform,implementation,dataset,size,threads_or_ranks,run_id,total_ms,kernel_ms,transfer_ms,throughput,error,power_w
+E,17,cpu_seq,seq_mixed,accuracy_steps10000,1024,1,1,26133.857356,26133.857356,0.000000,4.012328e+08,3.972e-07,

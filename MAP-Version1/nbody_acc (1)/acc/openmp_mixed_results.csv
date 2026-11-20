@@ -1,0 +1,2 @@
+cluster,problem,platform,implementation,dataset,size,threads_or_ranks,run_id,total_ms,kernel_ms,transfer_ms,throughput,error,power_w
+E,17,cpu_openmp,omp_full_mixed,accuracy_steps10000,1024,2,1,24219.381446,24219.381446,0.000000,4.329491e+08,3.972e-07,
